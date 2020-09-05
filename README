@@ -2,7 +2,6 @@
 
 a preprocessor
 
-
 `pp(1)` allows embedding
 [`sh(1)`](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/sh.html)
 code in files of any type by nesting it inside the `#!\n` token, where
