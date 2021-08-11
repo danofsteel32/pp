@@ -40,7 +40,7 @@ strlcat(char *dst, const char *src, size_t dsize)
 	return(dlen + (src - osrc));	/* count does not include NUL */
 }
 
-#define MAXSIZE 8000
+#define MAXSIZE 12000
 #define MAXINDENTSIZE 80
 #define MAXARGSIZE 20
 
